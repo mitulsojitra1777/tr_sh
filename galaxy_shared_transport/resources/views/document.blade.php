@@ -1,0 +1,1 @@
+document.blade.php
